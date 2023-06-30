@@ -1,0 +1,36 @@
+.FDiv {
+  background-color: #ffc533;
+  height: 100vh;
+  width: 650px;
+}
+.im {
+  width: 400px;
+  height: 400px;
+  margin: 30px;
+}
+.SDiv {
+  background-color: #0f172a;
+  height: 100vh;
+  width: 650px;
+}
+.h1 {
+  color: #ffc533;
+  text-align: center;
+}
+.Div {
+  display: flex;
+}
+.but {
+  background-color: #ffc533;
+  height: 30px;
+  width: 50px;
+  margin-left: 10px;
+}
+.inp {
+  width: 250px;
+  height: 30px;
+  margin-left: 50px;
+}
+.ul {
+  list-style-type: none;
+}
